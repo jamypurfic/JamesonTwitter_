@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+https://media.giphy.com/media/2jrkBaFPnj1l7Tm0Kk/giphy.gif
 
 ## Notes
 
