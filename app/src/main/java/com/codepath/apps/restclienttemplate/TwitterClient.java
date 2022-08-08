@@ -51,6 +51,9 @@ public class TwitterClient extends OAuthBaseClient {
 		params.put("user.fields", "name,username,profile_image_url");
 		params.put("expansions", "author_id");
 		params.put("since_id", 1);
+		params.put("count", 30);
+
+
 		params.put("exclude", "replies,retweets");
 		params.put("tweet.fields", "attachments,created_at");
 
