@@ -35,8 +35,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/20778976/184520072-0220132e-869d-445a-adb4-b8afaccc0c90.gif
-'/>
+https://user-images.githubusercontent.com/20778976/184520072-0220132e-869d-445a-adb4-b8afaccc0c90.gif
+
 
 
 ## Notes
