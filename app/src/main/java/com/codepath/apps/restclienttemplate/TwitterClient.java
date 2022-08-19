@@ -51,7 +51,8 @@ public class TwitterClient extends OAuthBaseClient {
 		RequestParams params = new RequestParams();
 		params.put("since_id", 1);
 		params.put("count", 30);
-		params.put("include_entities","true");
+		params.put("truncated",false);
+
 
 
 
